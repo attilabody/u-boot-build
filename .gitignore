@@ -1,3 +1,2 @@
-/trusted-firmware-a/*
-u-boot/*
-
+/trusted-firmware-a/
+/u-boot/
